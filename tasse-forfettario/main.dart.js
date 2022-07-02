@@ -66085,7 +66085,7 @@ s.gb2()
 s.f=!1},
 $S:0}
 A.Gb.prototype={
-K(a,b){return new A.wt(B.xd,"Flutter Demo",A.akI(null,B.rB,B.M6),null)}}
+K(a,b){return new A.wt(B.xd,"Tasse Forfettario",A.akI(null,B.rB,B.M6),null)}}
 A.FI.prototype={
 i(a){return"LaunchMode."+this.b}}
 A.a5S.prototype={}
