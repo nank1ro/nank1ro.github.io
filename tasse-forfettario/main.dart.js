@@ -65961,15 +65961,15 @@ n=n.length===0?0:A.QN(n)
 m=i.e.a.a
 m=m.length===0?0:A.QN(m)
 l=p*(h/100)
-k=l*(o.c/100)-m
+k=l*(o.c/100)
 q=B.cn.h(0,q)
 q.toString
-j=l*(q/100)-n
-n=B.e.aG(j)
-q=B.e.aG(k)
-m=B.e.aG(j*0.8/2)
+j=l*(q/100)
+n=B.e.aG(j-n)
+m=B.e.aG(k-m)
+q=B.e.aG(j*0.8/2)
 o=B.e.aG(k/2)
-J.asQ(s,new A.yW(n,q,m,m,o,o))},
+J.asQ(s,new A.yW(n,m,q,q,o,o))},
 $S:0}
 A.a72.prototype={
 $3(a2,a3,a4){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a=null,a0="selectedYear",a1=a3.BG($.agZ(),t.Fo)
